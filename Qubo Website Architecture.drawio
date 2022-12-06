@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2022-12-06T16:41:53.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="3xcu0GIHJ7h3mW3W60eb" version="20.6.0" type="github">
+  <diagram id="Dge0RgJNsbXBdX-BQOf3" name="Document Object Model">
+    <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Wg67gMYFNeZQN0fIBw4B-1" target="Wg67gMYFNeZQN0fIBw4B-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Wg67gMYFNeZQN0fIBw4B-1" target="Wg67gMYFNeZQN0fIBw4B-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wg67gMYFNeZQN0fIBw4B-1" target="Wg67gMYFNeZQN0fIBw4B-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wg67gMYFNeZQN0fIBw4B-1" target="Wg67gMYFNeZQN0fIBw4B-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-1" value="QUBO WEBSITE HOME" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-2" value="Services" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-3" value="Industries" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-4" value="Technologies" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-5" value="Contact" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-12" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;DOM (Document Object Model) v0 - Sprint 0&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Version 0 of the structure of the webste&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="450" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Wg67gMYFNeZQN0fIBw4B-17" target="Wg67gMYFNeZQN0fIBw4B-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Wg67gMYFNeZQN0fIBw4B-17" target="Wg67gMYFNeZQN0fIBw4B-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wg67gMYFNeZQN0fIBw4B-17" target="Wg67gMYFNeZQN0fIBw4B-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Wg67gMYFNeZQN0fIBw4B-17" target="Wg67gMYFNeZQN0fIBw4B-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-17" value="QUBO WEBSITE HOME" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-18" value="Services" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-19" value="Industries" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-20" value="Technologies" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="440" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-21" value="Contact" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="620" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-22" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;DOM (Document Object Model) v1 - Sprint ?&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Version 1will include 2 more sections: Team and Case Studies&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="540" width="450" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="Wg67gMYFNeZQN0fIBw4B-23" target="Wg67gMYFNeZQN0fIBw4B-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="1000" />
+              <mxPoint x="260" y="725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-23" value="Services" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="Wg67gMYFNeZQN0fIBw4B-24" target="Wg67gMYFNeZQN0fIBw4B-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-24" value="Industries" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-25" value="QUBO WEBSITE HOME" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="320" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-26" value="Services" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="120" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wg67gMYFNeZQN0fIBw4B-27" value="Industries" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="280" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
